@@ -143,4 +143,24 @@ main section{
     margin-top: 130px;
     margin-bottom: 130px;
 }
+/* resume section styles */
+.resume-container{
+    display: flex;
+    gap:24px
+}
+.experience-description, .experience-sub-title{
+    color: #757575;
+}
+.experience-sub-title{
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.resume hr{
+    margin:20px 0px;
+
+}
+.resume-download-cv{
+    margin:50px
+}
 
